@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+}
+
+aside {
+    margin-right: 250px;
+    display: inline-block;
+    border: solid black;
+    background-color: rgb(216, 216, 216);
+    padding: 20px 50px;
+}
+
+section {
+    padding: 160px 430px;
+    background-color: gray;
+    display: inline-block;
+}
+
+div {
+    text-align: center;
+    padding: 25px 15px;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.bleu {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: blue;
+}
+
+.vert {
+    background-color: green;
+}

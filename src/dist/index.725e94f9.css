@@ -1,0 +1,38 @@
+body {
+  height: 100vh;
+}
+
+aside {
+  background-color: #d8d8d8;
+  border: solid #000;
+  margin-right: 250px;
+  padding: 20px 50px;
+  display: inline-block;
+}
+
+section {
+  background-color: gray;
+  padding: 160px 430px;
+  display: inline-block;
+}
+
+div {
+  text-align: center;
+  padding: 25px 15px;
+}
+
+.rouge {
+  background-color: red;
+}
+
+.bleu {
+  background-color: #00f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.vert {
+  background-color: green;
+}
+
+/*# sourceMappingURL=index.725e94f9.css.map */
